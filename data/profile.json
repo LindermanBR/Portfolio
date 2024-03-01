@@ -8,40 +8,31 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/825e00ad27847a2c9a127b3c286fadc18c706f4e/assets/images/icons/java.svg?token=AHPPHEKK67QC4WHT77DSFRLF4FQKS"
+        "name": "Java"
       },
       {
-        "name": "Spring Boot",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/spring-boot.svg?token=AHPPHELTP5XUP24VAPXG3MLF4FQQK"
+        "name": "Spring Boot"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/825e00ad27847a2c9a127b3c286fadc18c706f4e/assets/images/icons/typescript.svg?token=AHPPHEOEE7TFNELEERUETL3F4FQR2"
+        "name": "Postgresql"
       },
       {
-        "name": "Typescript",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/typescript.svg?token=AHPPHELTP5XUP24VAPXG3MLF4FQQK"
+        "name": "Typescript"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/React.svg?token=AHPPHELTP5XUP24VAPXG3MLF4FQQK"
+        "name": "React"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/mongoDB.svg?token=AHPPHEOEE7TFNELEERUETL3F4FQR2"
+        "name": "Mongodb"
       },
       {
-        "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/html.svg?token=AHPPHEOEE7TFNELEERUETL3F4FQR2"
+        "name": "HTML"
       },
       {
-        "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/css.svg?token=AHPPHEOEE7TFNELEERUETL3F4FQR2"
+        "name": "CSS"
       },
       {
-        "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/javascript.svg?token=AHPPHEOEE7TFNELEERUETL3F4FQR2"
+        "name": "Javascript"
       }
     ],
     "softSkills": [
