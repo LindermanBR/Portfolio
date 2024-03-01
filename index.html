@@ -25,13 +25,17 @@
 <body>
     <main class="main">
         <header class="header">
-            <img src="assets/images/Profile-P.png" alt="Foto do Linderman Moura" class="photo">
-            <h1 class="title">Olá eu sou o Linderman Moura</h1>
+            <img src="assets/images/Profile-P.png" alt="Foto do Perfil" id="profile-photo" class="photo">
+            <h1 class="title" id="profile-name">Olá eu sou o Loading...</h1>
             <div class="information">
-                <p class="job">Software Developer</p>
-                <p class="location">Recife PE</p>
-                <p class="phone"><a href="tel:(81) 99781-9419">(81) 99781-9419</a></p>
-                <p class="mail"><a href="mailto:linderman.moura@outlook.com">linderman.moura@outlook.com</a></p>
+                <p class="job" id="profile-job">Loading...</p>
+                <p class="location" id="profile-location">Loading...</p>
+                <p class="phone">
+                    <a href="tel:(81) 99781-9419" id="profile-phone">Loading...</a>
+                </p>
+                <p class="mail">
+                    <a href="mailto:linderman.moura@outlook.com" id="profile-mail">Loading...</a>
+                </p>
             </div>
         </header>
 
@@ -44,8 +48,8 @@
                     <div class="skills">
                         <section class="hard-skills">
                             <h3>Hard Skills</h3>
-                            <ul>
-                                <li>
+                            <ul id="profile-hard-skills">
+                                <!-- <li>
                                     <img src="assets/images/icons/java.svg" alt="Java" title="Java">
                                 </li>
                                 <li>
@@ -65,22 +69,12 @@
                                 <li><img src="assets/images/icons/css.svg" alt="CSS" title="CSS">
                                 </li>
                                 <li><img src="assets/images/icons/javascript.svg" alt="Javascript" title="Javascript">
-                                </li>
-
-
-
-                                </li>
+                                </li> -->
                             </ul>
                         </section>
                         <section class="soft-skills">
                             <h3>Soft Skills</h3>
-                            <ul>
-                                <li>Resolução de Problemas</li>
-                                <li>Proatividade</li>
-                                <li>Trabalho em Equipe</li>
-                                <li>Flexibilidade</li>
-                                <li>Organização</li>
-                                <li>Comunicação</li>
+                            <ul id="profile-soft-skills">
                             </ul>
                         </section>
                     </div>
@@ -154,6 +148,8 @@
     </main>
 
     <script src="assets/js/acordeon.js"></script>
+    <script src="assets/js/api.js"></script>
+    <script src="assets/js/main.js"></script>
 </body>
 
 </html>
