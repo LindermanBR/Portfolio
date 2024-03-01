@@ -56,12 +56,12 @@
   "languages": ["Português BR", "Inglês (Técnico)"],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "name": "Pokedex",
       "url": "https://github.com/LindermanBR/DIO-JavaScript-Formation-Challange-Pokedex",
       "github": true
     },
     {
-      "name": "Workshop de Spring Boot 3 com JPA na UDEMY para a criação de um sistema de pedidos de vendas",
+      "name": "workshop-springboot3-jpa",
       "url": "https://github.com/LindermanBR/UDEMY-Java-workshop-springboot3-jpa",
       "github": true
     }
