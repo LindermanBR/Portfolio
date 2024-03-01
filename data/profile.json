@@ -9,39 +9,39 @@
     "hardSkills": [
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/825e00ad27847a2c9a127b3c286fadc18c706f4e/assets/images/icons/java.svg"
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/e733ea6c0aad89beccacaf0a1cb04ca00883557d/assets/images/icons/java.svg"
       },
       {
         "name": "Spring Boot",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/spring-boot.svg"
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/e733ea6c0aad89beccacaf0a1cb04ca00883557d/assets/images/icons/spring-boot.svg"
       },
       {
         "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/825e00ad27847a2c9a127b3c286fadc18c706f4e/assets/images/icons/typescript.svg"
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/e733ea6c0aad89beccacaf0a1cb04ca00883557d/assets/images/icons/postgres.svg"
       },
       {
         "name": "Typescript",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/typescript.svg"
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/e733ea6c0aad89beccacaf0a1cb04ca00883557d/assets/images/icons/typescript.svg"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/React.svg"
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/e733ea6c0aad89beccacaf0a1cb04ca00883557d/assets/images/icons/React.svg"
       },
       {
         "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/mongoDB.svg"
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/e733ea6c0aad89beccacaf0a1cb04ca00883557d/assets/images/icons/mongoDB.svg"
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/html.svg"
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/e733ea6c0aad89beccacaf0a1cb04ca00883557d/assets/images/icons/html.svg"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/css.svg"
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/e733ea6c0aad89beccacaf0a1cb04ca00883557d/assets/images/icons/css.svg"
       },
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/javascript.svg"
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/e733ea6c0aad89beccacaf0a1cb04ca00883557d/assets/images/icons/javascript.svg"
       }
     ],
     "softSkills": [
