@@ -1,0 +1,50 @@
+.skills {
+  display: flex;
+  flex-direction: column;
+}
+
+.skills .hard-skills ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.skills .hard-skills ul li {
+  justify-self: center;
+}
+
+.skills .hard-skills ul li img {
+  max-width: 50px;
+  margin-bottom: 0.5rem;
+}
+
+.skills .soft-skills ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+}
+
+.skills .soft-skills ul li {
+  margin-left: 2rem;
+  padding: 0.5rem;
+}
+@media only screen and (min-width: 768px) {
+  .skills {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .skills .hard-skills ul {
+    display: grid;
+    grid-template-columns: 0.2fr 0.2fr 0.2fr;
+  }
+
+  .skills .hard-skills ul li {
+    justify-self: self-start;
+  }
+}
