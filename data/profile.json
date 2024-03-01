@@ -1,0 +1,81 @@
+{
+  "name": "Linderman M S Moura",
+  "photo": "https://avatars.githubusercontent.com/u/31388561?s=400&u=74380ffff99e09e4eace6bf9ee7aec5b9e5d0282&v=4",
+  "job": "Fullstack Developer",
+  "location": "Recife - PE",
+  "phone": "(81) 99781-9419",
+  "email": "linderman.moura@outlook.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/java.svg?token=GHSAT0AAAAAACH3ZOXHRIDBX4TKPVZZYAJYZPBLPFQ"
+      },
+      {
+        "name": "Spring Boot",
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/spring-boot.svg?token=GHSAT0AAAAAACH3ZOXHJDQ6E4LEHR77EIQQZPBLUIQ"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://github.com/LindermanBR/Portfolio/blob/main/assets/images/icons/postgres.svg"
+      },
+      {
+        "name": "Typescript",
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/typescript.svg?token=GHSAT0AAAAAACH3ZOXGQBC7T7FACL53G7ZEZPBLUTQ"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/React.svg?token=GHSAT0AAAAAACH3ZOXGQ7B4CWCCFWBQ2SSQZPBLSKA"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/mongoDB.svg?token=GHSAT0AAAAAACH3ZOXHXD5AMBNGRQQ7PHW2ZPBLT2Q"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/html.svg?token=GHSAT0AAAAAACH3ZOXG6KZJTJLSLZSXO6X2ZPBLTGA"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/css.svg?token=GHSAT0AAAAAACH3ZOXHHZHY6DA6HFJHQLRQZPBLS7A"
+      },
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/javascript.svg?token=GHSAT0AAAAAACH3ZOXGKYFYXYVNSTVVFY4IZPBLTQQ"
+      }
+    ],
+    "softSkills": [
+      "Resolução de Problemas",
+      "Proatividade",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização",
+      "Comunicação"
+    ]
+  },
+  "languages": ["Português BR", "Inglês (Técnico)"],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/LindermanBR/DIO-JavaScript-Formation-Challange-Pokedex",
+      "github": true
+    },
+    {
+      "name": "Workshop de Spring Boot 3 com JPA na UDEMY para a criação de um sistema de pedidos de vendas",
+      "url": "https://github.com/LindermanBR/UDEMY-Java-workshop-springboot3-jpa",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Assistente Administrativo / Transfrio Transportes",
+      "period": "2023",
+      "description": "Atuei na melhoria dos processos da empresa de logística entendendo os requisitos do negócio e implementando técnicas para organização de processos como o kanban bem como a digitalização da empresa com produtos do mercado local para atender a necessidade, além de implementar novos processos para controle"
+    },
+    {
+      "name": "Desenvolvedor / Freelancer",
+      "period": "2024 - Atual",
+      "description": "Atuo como desenvolvedor freelancer, desenvolvendo sistemas web para pequenas empresas, utilizando tecnologias como Java, Spring Boot, React, Typescript, Mongodb, Postgresql, entre outras."
+    }
+  ]
+}
