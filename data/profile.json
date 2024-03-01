@@ -8,31 +8,40 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Java"
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/825e00ad27847a2c9a127b3c286fadc18c706f4e/assets/images/icons/java.svg"
       },
       {
-        "name": "Spring Boot"
+        "name": "Spring Boot",
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/spring-boot.svg"
       },
       {
-        "name": "Postgresql"
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/825e00ad27847a2c9a127b3c286fadc18c706f4e/assets/images/icons/typescript.svg"
       },
       {
-        "name": "Typescript"
+        "name": "Typescript",
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/typescript.svg"
       },
       {
-        "name": "React"
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/React.svg"
       },
       {
-        "name": "Mongodb"
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/mongoDB.svg"
       },
       {
-        "name": "HTML"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/html.svg"
       },
       {
-        "name": "CSS"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/css.svg"
       },
       {
-        "name": "Javascript"
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/LindermanBR/Portfolio/main/assets/images/icons/javascript.svg"
       }
     ],
     "softSkills": [
