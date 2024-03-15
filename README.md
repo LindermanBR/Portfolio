@@ -3,7 +3,7 @@
 
 Venha conferir meu portfólio online.
 
-[Confira!!]([https://lindermanbr.github.io/Guanabara-HTML-CSS-projeto-android/](https://lindermanbr.github.io/Portfolio/))
+[Confira!!](https://lindermanbr.github.io/Portfolio/)
 
 ## Screenshots
 
